@@ -1,17 +1,19 @@
-A magical vue admin 
+### start
+  ```
+  git clone https://github.com/PanJiaChen/vue-element-admin.git
 
-vue
-admin
-element-ui
-axios
-vuex
-vue-cli
-element
-vue-admin
-admin-template
-mock
-admin-dashboard
-desktop
-management-system
-webpack
-i18n
+  cd vue-admin
+  
+  npm install
+
+  npm run dev
+  ```
+  
+  ### build
+    ```
+    #test
+    npm run build:sit
+    
+    #production
+    npm run build:prod
+    ```
