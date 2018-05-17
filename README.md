@@ -1,19 +1,19 @@
-### start
-  ```
-  git clone https://github.com/PanJiaChen/vue-element-admin.git
+## Getting started
 
-  cd vue-admin
-  
-  npm install
+```bash
+git clone https://github.com/PanJiaChen/vue-element-admin.git
 
-  npm run dev
-  ```
-  
-  ### build
-    ```
-    #test
-    npm run build:sit
-    
-    #production
-    npm run build:prod
-    ```
+npm install
+
+npm run dev
+```
+
+
+## Build
+```bash
+# test environment
+npm run build:sit
+
+# production environment
+npm run build:prod
+```
