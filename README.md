@@ -1,7 +1,7 @@
 ## Getting started
 
 ```bash
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/17610893216/vue-admin.git
 
 npm install
 
