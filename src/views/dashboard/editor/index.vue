@@ -2,7 +2,7 @@
   <div class="dashboard-editor-container">
     <div class="clearfix">
       <div class="info-container">
-        <span class="display_name">圣煜麒麟管理后台中心</span>
+        <span class="display_name">后台管理中心</span>
         <span style="font-size:20px;padding-top:20px;display:inline-block;">欢迎您登录</span>
       </div>
     </div>
